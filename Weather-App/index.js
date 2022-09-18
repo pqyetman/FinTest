@@ -3,21 +3,21 @@
 //Creating constants for the URLs
 const cityAPI = "http://localhost:3000/cities";
 
-const newYorkAPI = `http://www.7timer.info/bin/api.pl?lon=-74.00&lat=40.71&product=civillight&output=json`
+const newYorkAPI = `https://www.7timer.info/bin/api.pl?lon=-74.00&lat=40.71&product=civillight&output=json`
 
-const newYorkAPICivil = `http://www.7timer.info/bin/api.pl?lon=-74.00&lat=40.71&product=civil&output=json`
+const newYorkAPICivil = `https://www.7timer.info/bin/api.pl?lon=-74.00&lat=40.71&product=civil&output=json`
 
-const sanFranciscoAPI = `http://www.7timer.info/bin/api.pl?lon=-122.41&lat=37.77.00&product=civillight&output=json`
+const sanFranciscoAPI = `https://www.7timer.info/bin/api.pl?lon=-122.41&lat=37.77.00&product=civillight&output=json`
 
-const sanFranciscoAPICivil = `http://www.7timer.info/bin/api.pl?lon=-122.41&lat=37.77.00&product=civil&output=json`
+const sanFranciscoAPICivil = `https://www.7timer.info/bin/api.pl?lon=-122.41&lat=37.77.00&product=civil&output=json`
 
-const houstonAPI = `http://www.7timer.info/bin/api.pl?lon=-95.36&lat=29.76&product=civillight&output=json`
+const houstonAPI = `https://www.7timer.info/bin/api.pl?lon=-95.36&lat=29.76&product=civillight&output=json`
 
-const houstonAPICivil = `http://www.7timer.info/bin/api.pl?lon=-95.36&lat=29.76&product=civil&output=json`
+const houstonAPICivil = `https://www.7timer.info/bin/api.pl?lon=-95.36&lat=29.76&product=civil&output=json`
 
-const denverAPI = `http://www.7timer.info/bin/api.pl?lon=-104.99&lat=39.74&product=civillight&output=json`
+const denverAPI = `https://www.7timer.info/bin/api.pl?lon=-104.99&lat=39.74&product=civillight&output=json`
 
-const denverAPICivil = `http://www.7timer.info/bin/api.pl?lon=-104.99&lat=39.74&product=civil&output=json`
+const denverAPICivil = `https://www.7timer.info/bin/api.pl?lon=-104.99&lat=39.74&product=civil&output=json`
 
 
 
