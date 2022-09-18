@@ -1,0 +1,25 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "New York City, NY",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/West_side_of_Manhattan_from_Hudson_Commons_%2895103p%29.jpg"
+      },
+    {
+      "id": 2,
+      "name": "Houston, TX",
+      "image": "https://cdn.britannica.com/26/94226-050-9B713036/Skyline-Houston-Texas.jpg"
+    },
+      {
+      "id": 3,
+      "name": "Denver, CO",
+      "image": "https://www.travelandleisure.com/thmb/CqRZ6AhzaEUSpCcWwN_mb8EyWqU=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():gifv():format(webp)/denver-colorado-DENVERTG0221-20abf6a2611c4bbabefe430569cf48b2.jpg"
+  },
+      {
+      "id": 4,
+      "name": "San Francisco, CA",
+      "image": "https://blog-www.pods.com/wp-content/uploads/2021/03/resized_FI_Getty_San-Francisco-CA-1.jpg"
+  }
+    
+  ]
+}
